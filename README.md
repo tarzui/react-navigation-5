@@ -8,7 +8,7 @@ to JavaScript Version
 
 (tsx -> js) 
 
-- git clone ...
+- git clone https://github.com/kiitar/react-navigation-5.git
 - cd ReactNavigation5Demo
 - npm i
 - cd ios
