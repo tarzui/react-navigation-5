@@ -8,5 +8,12 @@ to JavaScript Version
 
 (tsx -> js) 
 
+- git clone ...
+- cd ReactNavigation5Demo
+- npm i
+- cd ios
+- pod install
+- cd ..
+- react-native run-ios
 
 ## TaRZui
